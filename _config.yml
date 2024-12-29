@@ -6,38 +6,12 @@ description: >-
 baseurl: "" # Leave this blank for GitHub Pages root
 url: "https://acrager.github.io" # The base URL of your site
 github_username: acrager
-repository: acrager/github-resume
+repository: acrager/acrager.github.io
 # Layout and customization
 # theme: minima # Current theme; switch to your preferred theme
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
-
-# Navigation links
-# These are used to create a navigation bar or sidebar for your site.
-nav_links:
-  - name: "Home"
-    url: "/"
-  - name: "Portfolio"
-    url: "/portfolio/"
-  - name: "Contact"
-    url: "/contact/"
-
-# Custom variables for résumé
-resume_details:
-  - title: "Software Engineer"
-    description: "Specialized in full-stack development, scalable web applications, and team leadership."
-  - title: "Education"
-    description: "B.Sc. in Computer Science, Example University, 2020"
-  - title: "Skills"
-    description: "Python, JavaScript, React, HTML, CSS, Django, Flask"
-  - title: "Experience"
-    description: >
-      **Software Engineer**  
-      Awesome Company, Example City, USA  
-      *January 2021 – Present*
-      - Developed scalable web applications.
-      - Improved system performance by 30%.
 
 # Build settings
 markdown: kramdown # Use the default markdown processor

@@ -1,5 +1,7 @@
 # Site settings
 title: Amy C. Rager, Ph.D. # Your name
+logo: /assets/img/logo.png
+# logo: /assets/img/IMG_1547.jpeg
 email: amy.c.rager@nasa.gov
 description: >-
   Physicist, systems engineer, and science operations manager with expertise in Python, data analysis, and ground system engineering. Passionate about driving mission success through innovative solutions, interdisciplinary collaboration, and scalable system design.

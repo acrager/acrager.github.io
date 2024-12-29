@@ -1,0 +1,24 @@
+# Jekyll build folder
+/_site
+_site
+
+# Jekyll cache folders
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Node modules (if using npm for assets)
+node_modules/
+
+# Ruby Bundler dependencies
+vendor/
+
+# System files
+.DS_Store
+Thumbs.db
+
+_site/404.html
+_site/about/index.html
+_site/feed.xml
+_site/index.html
+_site/jekyll/update/2024/12/28/welcome-to-jekyll.html
